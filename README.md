@@ -1,5 +1,4 @@
-# ElevateLabs_Task1_EDA
-# Elevate Labs AI & ML Internship - Task 2: Exploratory Data Analysis (EDA)
+# Exploratory Data Analysis (EDA)
 
 ## Objective
 
